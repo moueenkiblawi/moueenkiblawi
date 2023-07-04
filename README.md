@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **python**
 
+- 💬 Ask me about **anything you want**
+
 - 📫 How to reach me **moueen455kiblawi@gmail.com**
 
 - ⚡ Fun fact **I enjoy playing football in my free time.**
