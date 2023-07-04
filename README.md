@@ -1,49 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Moueen Kiblawi</h1>
+<h3 align="center"> am a highly motivated and dedicated web developer, with a strong passion for creating efficient and user-friendly web applications. I recently graduated with a degree in Web Development and have acquired a solid foundation in Java, JavaScript, React.js, Express.js, Node.js, MySQL, and PHP. I also have basic knowledge in C# and I am currently studying Python and SQL databases.</h3>
+<img  align="right" alt="coding" src="">
+- 🌱 I’m currently learning **python**
 
-### About Me
-I am a highly motivated and dedicated web developer, with a strong passion for creating efficient and user-friendly web applications. I recently graduated with a degree in Web Development and have acquired a solid foundation in Java, JavaScript, React.js, Express.js, Node.js, MySQL, and PHP. I also have basic knowledge in C# and I am currently studying Python and SQL databases.
+- 📫 How to reach me **moueen455kiblawi@gmail.com**
 
-### Skills
-Programming Languages: Java, JavaScript, PHP, C#
-Web Technologies: HTML5, CSS3, React.js, Express.js, Node.js
-Databases: MySQL
-Version Control: Git
-Tools: Visual Studio Code Postman, MySQL Workbench
-Operating Systems: Windows, Linux
+- ⚡ Fun fact **I enjoy playing football in my free time.**
 
-### Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/moueen kiblawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moueen kiblawi" height="30" width="40" /></a>
+<a href="https://fb.com/moueen kiblawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moueen kiblawi" height="30" width="40" /></a>
+<a href="https://instagram.com/moueen_kb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moueen_kb" height="30" width="40" /></a>
+</p>
 
-## Project 1: Garage Managment System Website
-Developed a full-stack e-commerce website using React.js for the frontend and Node.js with Express.js for the backend.
-Integrated PayPal API for secure online payments.
-Implemented a MySQL database to store product information and user data.
-## Project 2: Blogging Platform
-Created a blogging platform using PHP and MySQL.
-Implemented user authentication and authorization functionalities.
-Designed an intuitive user interface for creating, editing, and publishing blog posts.
-
-### Education
-Bachelor's Degree in Computer Science,Lebanese International University, 2023
-
-### Contact
--Email: moueen.kiblawi@example.com...
--LinkedIn: linkedin.com/in/moueenkiblawi...
--Portfolio: moueenkiblawi.com...
-
-Feel free to reach out to me if you have any questions or opportunities for collaboration. I am open to exciting projects and always eager to expand my skill set. Let's create something great together!
-
-⚡ Fun Fact: I enjoy playing football in my free time.
-<!--
-**moueenkiblawi/moueenkiblawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
